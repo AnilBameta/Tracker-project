@@ -1,0 +1,19 @@
+{
+  "name": "tracker-project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node start",
+    "dev": "nodemon start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Checklist Mern Project",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
